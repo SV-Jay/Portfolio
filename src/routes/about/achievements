@@ -1,15 +1,10 @@
-<h1>Sv Jay's Portfolio</h1>
-<a class="red_link" href="/about">About me Page</a>
+<h1>About Sv Jay</h1>
+<p>I am a coder.</p>
 
 <style>
     h1 {
         color: aqua;
         text-align: center;
-    }
-
-    a.red_link {
-        color: red;
-        padding-left: 3em;       
     }
 
     :global(body) {
