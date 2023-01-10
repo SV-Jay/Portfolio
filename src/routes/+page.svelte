@@ -1,5 +1,12 @@
 <h1>Sv Jay's Portfolio</h1>
 <a class="red_link" href="/about">About me Page</a>
+<a class="red_link" href="/achievements">Achievements</a>
+
+<script>
+     import CoolButton from "../lib/CoolButton.svelte";
+</script>
+
+<CoolButton></CoolButton>
 
 <style>
     h1 {
